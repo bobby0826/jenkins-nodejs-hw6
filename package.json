@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-nodejs-hw6",
+  "version": "1.0.0",
+  "description": "HW6 Jenkins and GitHub integration project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "mkdir -p dist && cp app.js dist/app.js"
+  },
+  "license": "MIT"
+}
